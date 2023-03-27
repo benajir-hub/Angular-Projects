@@ -1,2 +1,2 @@
-# Angular-Projects
-Projects build with Angular framework
+# Angular-Web-Projects
+Web-Projects build with Angular framework
